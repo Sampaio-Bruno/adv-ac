@@ -5674,6 +5674,10 @@ textarea.form-control.is-invalid {
   margin-bottom: 1rem;
 }
 
+.mt-20 {
+  margin-top: 5rem;
+}
+
 .ml-6 {
   margin-left: 1.5rem;
 }
@@ -5726,10 +5730,6 @@ textarea.form-control.is-invalid {
   margin-top: 0.25rem;
 }
 
-.mt-20 {
-  margin-top: 5rem;
-}
-
 .ml-5 {
   margin-left: 1.25rem;
 }
@@ -5740,14 +5740,6 @@ textarea.form-control.is-invalid {
 
 .mb-20 {
   margin-bottom: 5rem;
-}
-
-.mt-96 {
-  margin-top: 24rem;
-}
-
-.mt-36 {
-  margin-top: 9rem;
 }
 
 .box-border {
@@ -5934,6 +5926,10 @@ textarea.form-control.is-invalid {
   width: 3rem;
 }
 
+.w-4\/6 {
+  width: 66.666667%;
+}
+
 .w-4\/5 {
   width: 80%;
 }
@@ -5984,14 +5980,6 @@ textarea.form-control.is-invalid {
 
 .w-32 {
   width: 8rem;
-}
-
-.w-3\/6 {
-  width: 50%;
-}
-
-.w-4\/6 {
-  width: 66.666667%;
 }
 
 .max-w-7xl {
@@ -8325,11 +8313,6 @@ textarea.form-control.is-invalid {
   .lg\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
-  }
-
-  .lg\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
   }
 
   .lg\:text-3xl {
