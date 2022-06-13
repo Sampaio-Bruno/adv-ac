@@ -1,3 +1,4 @@
 Versões/*
+node_modules/*
 .gitignore
-*.html
+componets.html
